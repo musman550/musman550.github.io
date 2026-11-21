@@ -8,8 +8,8 @@
 - [talashly](https://github.com/musman550/talashly): Self-hosted open-source search engine with its own crawler, RAG answers and multilingual support (Python). No third-party APIs.
 - [musfiraai-free-tools](https://github.com/musman550/musfiraai-free-tools): Free, open source browser tools by musfiraai: no signup, no uploads. YouTube: Automate With Musfira AI
 - [talashly-monitor](https://github.com/musman550/talashly-monitor): Ping your Talashly server every 10 minutes and get a GitHub issue if it goes down
-- [musfira-oracle-status](https://github.com/musman550/musfira-oracle-status): Public status file: current live URL for Musfira AI Oracle backend (auto-updated, no sensitive data)
 - [musfiraai-mcp](https://github.com/musman550/musfiraai-mcp): musfiraai-mcp: MCP server for Musfiraai, enabling free custom tool requests, status checks, and n8n workflow integration via Claude clients
+- [musfira-oracle-status](https://github.com/musman550/musfira-oracle-status): Public status file: current live URL for Musfira AI Oracle backend (auto-updated, no sensitive data)
 - [musfiraai-tools-backend](https://github.com/musman550/musfiraai-tools-backend): Free tool/automation/n8n workflow request backend for Musfiraai
 - [musfiraai-cli](https://github.com/musman550/musfiraai-cli): musfiraai-cli: terminal tool to request free custom AI tools, automations, and n8n workflows from Musfiraai
 - [girlfriend-automate](https://github.com/musman550/girlfriend-automate): Open-source AI SMS auto-reply assistant for Android (9+). Always labelled as AI. Groq + Gemini, approve mode, urgent/stop words. MIT.
