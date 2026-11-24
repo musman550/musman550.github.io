@@ -4,8 +4,8 @@
 
 ## Main projects
 - [GitHub Traffic Analytics Dashboard](https://musman550.github.io/github-traffic-analytics-dashboard/): permanent history of GitHub views, clones and referrers; [llms.txt](https://musman550.github.io/github-traffic-analytics-dashboard/llms.txt), [open data](https://musman550.github.io/github-traffic-analytics-dashboard/data/)
-- [musfiraai-mcp-server](https://github.com/musman550/musfiraai-mcp-server): Musfiraai MCP server — company info, services, FAQ, reviews, brands as MCP tools/resources/prompts
 - [talashly](https://github.com/musman550/talashly): Self-hosted open-source search engine with its own crawler, RAG answers and multilingual support (Python). No third-party APIs.
+- [musfiraai-mcp-server](https://github.com/musman550/musfiraai-mcp-server): Musfiraai MCP server — company info, services, FAQ, reviews, brands as MCP tools/resources/prompts
 - [musfiraai-free-tools](https://github.com/musman550/musfiraai-free-tools): Free, open source browser tools by musfiraai: no signup, no uploads. YouTube: Automate With Musfira AI
 - [talashly-monitor](https://github.com/musman550/talashly-monitor): Ping your Talashly server every 10 minutes and get a GitHub issue if it goes down
 - [musfira-oracle-status](https://github.com/musman550/musfira-oracle-status): Public status file: current live URL for Musfira AI Oracle backend (auto-updated, no sensitive data)
