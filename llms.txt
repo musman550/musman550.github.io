@@ -14,8 +14,8 @@
 - [musfiraai-cli](https://github.com/musman550/musfiraai-cli): musfiraai-cli: terminal tool to request free custom AI tools, automations, and n8n workflows from Musfiraai
 - [girlfriend-automate](https://github.com/musman550/girlfriend-automate): Open-source AI SMS auto-reply assistant for Android (9+). Always labelled as AI. Groq + Gemini, approve mode, urgent/stop words. MIT.
 - [musfiraai-tools-backend](https://github.com/musman550/musfiraai-tools-backend): Free tool/automation/n8n workflow request backend for Musfiraai
-- [ai-calling-agent-top-free](https://github.com/musman550/ai-calling-agent-top-free): Premium AI voice calling agent — live preview dashboard (Groq + n8n + Twilio ready)
-- [reverse-text](https://github.com/musman550/reverse-text): Reverse text by characters, by words or by lines in your browser, with correct handling of accents and symbols.
+- [json-formatter](https://github.com/musman550/json-formatter): Format, minify and validate JSON in your browser, with exact large numbers, sorted keys and the line and column of the first error.
+- [remove-line-breaks](https://github.com/musman550/remove-line-breaks): Join text onto one line by removing line breaks, with options to keep paragraphs and to use a space, a comma or nothing.
 
 ## Links
 - [GitHub profile](https://github.com/musman550)
