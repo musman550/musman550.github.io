@@ -9,13 +9,13 @@
 - [musfiraai-free-tools](https://github.com/musman550/musfiraai-free-tools): Free, open source browser tools by musfiraai: no signup, no uploads. YouTube: Automate With Musfira AI
 - [musman550.github.io](https://github.com/musman550/musman550.github.io): Host-root files (robots.txt, llms.txt, sitemap) for my GitHub Pages sites
 - [talashly-monitor](https://github.com/musman550/talashly-monitor): Ping your Talashly server every 10 minutes and get a GitHub issue if it goes down
-- [musfira-oracle-status](https://github.com/musman550/musfira-oracle-status): Public status file: current live URL for Musfira AI Oracle backend (auto-updated, no sensitive data)
 - [musfiraai-mcp](https://github.com/musman550/musfiraai-mcp): musfiraai-mcp: MCP server for Musfiraai, enabling free custom tool requests, status checks, and n8n workflow integration via Claude clients
+- [musfira-oracle-status](https://github.com/musman550/musfira-oracle-status): Public status file: current live URL for Musfira AI Oracle backend (auto-updated, no sensitive data)
 - [musfiraai-cli](https://github.com/musman550/musfiraai-cli): musfiraai-cli: terminal tool to request free custom AI tools, automations, and n8n workflows from Musfiraai
 - [girlfriend-automate](https://github.com/musman550/girlfriend-automate): Open-source AI SMS auto-reply assistant for Android (9+). Always labelled as AI. Groq + Gemini, approve mode, urgent/stop words. MIT.
 - [musfiraai-tools-backend](https://github.com/musman550/musfiraai-tools-backend): Free tool/automation/n8n workflow request backend for Musfiraai
+- [reverse-text](https://github.com/musman550/reverse-text): Reverse text by characters, by words or by lines in your browser, with correct handling of accents and symbols.
 - [password-generator](https://github.com/musman550/password-generator): Create strong random passwords in your browser, with adjustable length, character sets and an honest strength estimate.
-- [json-formatter](https://github.com/musman550/json-formatter): Format, minify and validate JSON in your browser, with exact large numbers, sorted keys and the line and column of the first error.
 
 ## Links
 - [GitHub profile](https://github.com/musman550)
